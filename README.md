@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abubake
 - 👀 I’m interested in ... vision-based solutions to aquatic conservation
 - 🌱 I’m currently learning ... pose estimation!
-- 💞️ I’m looking to collaborate on computer vision and undewater robotics projects, with a special interest in ocean sampling and obsevation systems
-- 📫 How to reach me: eherrin@ufl.edu, Subject your email with: "GITHUB: <related_repo>, <two-three word summary of what you are emailing about>"
+- 💞️ I’m looking to collaborate on computer vision and undewater robotics projects, with a special interest in ocean sampling and observation systems
+- 📫 How to reach me: eherrin@ufl.edu, Subject your email with: "GITHUB: <related_repo> <two or three word summary>"
   - Ex:) GITHUB: abubake/catfishElectrofisher collaboration idea
 
 <!---
