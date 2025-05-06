@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abubake
-- I’m passionate about ... developing solutions for deploying AI/ML on embedded hardware for mobile robotics and prediction/tracking.
+- I’m passionate about ... developing solutions for deploying AI/ML on embedded hardware for mobile robotics and state estimation/tracking.
 - My career interests are at the intersection of **Deep Learning** and **Mobile Robotics**.
 - I’m currently reading ... Understanding Deep Learning by Simon J.D. Prince
 - 📫 How to reach me: bakerherrin2@gmail.com
