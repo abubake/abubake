@@ -4,11 +4,19 @@
 - 📫 How to reach me: bakerherrin2@gmail.com
   
 [![E. Baker Herrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubake)](https://github.com/knmcguire/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubake&size_weight=0.5&count_weight=0.5&langs_count=5&hide=assembly,cmake,makefile,matlab,shaderlab,html&layout=compact)](https://github.com/knmcguire/github-readme-stats)
+
 <!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubake)](https://github.com/anuraghazra/github-readme-stats)
-[![Baker's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubake)](https://github.com/anuraghazra/github-readme-stats)
---->
-<!---
-abubake/abubake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Baker's GitHub TODOs:
+- Organize/Move 3DGS_planning to GitHub
+- Clean up readme.md for RAITE_CV_MLOps
+- Add Autonomous Robotics Python KF to Pinned items
+- Add 3DCD Code to GitHub
+- RAITE_CV_MLOps: Finish train,test,evaluate edits/refactor
+- 3DCD Code: Clean up/ refactor
+
+- Review Autonomous Robotics code to see what else should be added
+
+Maybe Dos:
+- Add Python/C++ KF Implementation to Pinned -> Add ROS2 Package for Python/C++ KF localization
+- Add other 3 Dynamics approaches to Dynamics problems (have all 4 methods)
 --->
