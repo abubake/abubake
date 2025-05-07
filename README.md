@@ -4,7 +4,7 @@
 - I’m currently reading ... Understanding Deep Learning by Simon J.D. Prince
 - 📫 How to reach me: bakerherrin2@gmail.com
 - 
-[![Baker's GitHub stats](https://github-readme-stats.vercel.app/api?abubake=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Baker's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubake)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 abubake/abubake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
