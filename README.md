@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abubake
+~Hi, I am E. Baker Herrin~
 - I’m passionate about ... developing solutions for deploying AI/ML on embedded hardware for mobile robotics and state estimation/tracking.
 - My career interests are at the intersection of **Deep Learning** and **Mobile Robotics**.
 - I’m currently reading ... Understanding Deep Learning by Simon J.D. Prince
