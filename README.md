@@ -9,7 +9,7 @@
 Baker's GitHub TODOs:
 - Organize/Move 3DGS_planning to GitHub
 - Clean up readme.md for RAITE_CV_MLOps
-- Add Autonomous Robotics Python KF to Pinned items
+- [DONE] Add Autonomous Robotics Python KF to Pinned items
 - Add 3DCD Code to GitHub
 - RAITE_CV_MLOps: Finish train,test,evaluate edits/refactor
 - 3DCD Code: Clean up/ refactor
